@@ -57,20 +57,20 @@ CODSOFT/
 1. Clone this repository:
 
    bash
-   git clone https://github.com/your-username/CODSOFT.git
+   git clone https://github.com/Sparshbhalla22/CODSOFT.git
    cd CODSOFT
    
 
 2. Navigate to the task folder you want to run:
 
    bash
-   cd Task-1
+   cd Task_1
    
 
 3. Open the notebook in Jupyter or Google Colab:
 
    bash
-   jupyter notebook task-1.ipynb
+   jupyter notebook Task_1.ipynb
    
 
 4. Download the dataset from the given Kaggle link and place it in the corresponding task folder before running the notebook.
